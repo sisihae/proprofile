@@ -1,0 +1,5 @@
+{
+  "name": "ProProfile AI Editor",
+  "description": "Professional profile picture editor powered by Gemini 2.5 Flash Image. Upload your photo and instantly change your attire or background with natural language prompts.",
+  "requestFramePermissions": []
+}
